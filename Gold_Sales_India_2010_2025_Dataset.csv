@@ -1,0 +1,501 @@
+Brand,Gold_Type,Purity,Year,Price_per_Gram_INR,Grams Sold,City,Total Revenue
+Joyalukkas,24K Coins,22K,2025,4342,1945,Mumbai,8445190
+Reliance Jewels,Temple Jewellery,18K,2022,4305,1321,Mumbai,5686905
+Malabar Gold,22K Jewellery,24K,2019,5086,413,Mumbai,2100518
+Reliance Jewels,22K Jewellery,18K,2021,4627,370,Pune,1711990
+Reliance Jewels,Temple Jewellery,18K,2023,5528,1706,Bangalore,9430768
+Kalyan Jewellers,Gold Bars,22K,2011,6095,335,Chennai,2041825
+Malabar Gold,22K Jewellery,22K,2016,6194,198,Pune,1226412
+Malabar Gold,Gold Bars,24K,2012,4516,1157,Pune,5225012
+Malabar Gold,22K Jewellery,18K,2019,6186,455,Chennai,2814630
+Reliance Jewels,22K Jewellery,18K,2011,4834,1027,Mumbai,4964518
+Joyalukkas,18K Jewellery,18K,2023,6125,505,Hyderabad,3093125
+Malabar Gold,22K Jewellery,24K,2020,6256,1816,Chennai,11360896
+PC Jeweller,24K Coins,24K,2016,7021,849,Bangalore,5960829
+Reliance Jewels,Temple Jewellery,22K,2022,6470,1234,Delhi,7983980
+Kalyan Jewellers,Temple Jewellery,22K,2022,5639,1062,Delhi,5988618
+Joyalukkas,Gold Bars,22K,2011,4752,833,Kolkata,3958416
+PC Jeweller,22K Jewellery,18K,2025,4915,509,Kolkata,2501735
+PC Jeweller,24K Coins,18K,2025,5487,1623,Pune,8905401
+Kalyan Jewellers,Gold Bars,22K,2012,5913,1573,Delhi,9301149
+Joyalukkas,18K Jewellery,18K,2020,6083,787,Hyderabad,4787321
+Reliance Jewels,Gold Bars,22K,2016,5307,558,Mumbai,2961306
+Tanishq,Gold Bars,24K,2023,5541,1727,Bangalore,9569307
+Joyalukkas,22K Jewellery,22K,2013,4310,1877,Kolkata,8089870
+Kalyan Jewellers,18K Jewellery,24K,2022,4450,530,Hyderabad,2358500
+PC Jeweller,Gold Bars,18K,2023,6630,1736,Bangalore,11509680
+Reliance Jewels,24K Coins,22K,2010,6254,163,Bangalore,1019402
+Joyalukkas,24K Coins,18K,2022,4658,798,Mumbai,3717084
+Tanishq,Temple Jewellery,24K,2023,5307,1651,Pune,8761857
+Tanishq,18K Jewellery,24K,2014,4407,410,Delhi,1806870
+Malabar Gold,18K Jewellery,24K,2021,5099,390,Mumbai,1988610
+Malabar Gold,Temple Jewellery,18K,2018,4221,819,Hyderabad,3456999
+Kalyan Jewellers,Gold Bars,18K,2025,4609,810,Pune,3733290
+Joyalukkas,18K Jewellery,18K,2017,5094,1018,Hyderabad,5185692
+Joyalukkas,24K Coins,18K,2021,4714,498,Pune,2347572
+PC Jeweller,24K Coins,24K,2024,5008,1916,Kolkata,9595328
+PC Jeweller,22K Jewellery,24K,2018,5073,884,Hyderabad,4484532
+PC Jeweller,18K Jewellery,22K,2019,4213,1253,Mumbai,5278889
+Malabar Gold,Gold Bars,22K,2023,5170,1775,Pune,9176750
+Joyalukkas,Temple Jewellery,18K,2018,6334,1480,Pune,9374320
+Joyalukkas,Temple Jewellery,24K,2024,7156,1739,Bangalore,12444284
+Tanishq,Gold Bars,24K,2016,5760,1269,Bangalore,7309440
+Malabar Gold,22K Jewellery,24K,2013,5524,1539,Chennai,8501436
+Reliance Jewels,Temple Jewellery,22K,2014,5466,360,Hyderabad,1967760
+Malabar Gold,18K Jewellery,22K,2010,6369,311,Bangalore,1980759
+Reliance Jewels,22K Jewellery,24K,2023,4949,1492,Chennai,7383908
+Tanishq,18K Jewellery,24K,2010,4884,455,Kolkata,2222220
+Kalyan Jewellers,24K Coins,24K,2012,6127,192,Kolkata,1176384
+Joyalukkas,22K Jewellery,22K,2022,6556,391,Bangalore,2563396
+Tanishq,Temple Jewellery,24K,2023,4894,1389,Hyderabad,6797766
+Joyalukkas,22K Jewellery,24K,2017,6535,1174,Pune,7672090
+PC Jeweller,22K Jewellery,18K,2023,4506,293,Delhi,1320258
+Kalyan Jewellers,22K Jewellery,18K,2011,6189,539,Hyderabad,3335871
+Kalyan Jewellers,22K Jewellery,22K,2013,7161,61,Mumbai,436821
+Tanishq,18K Jewellery,24K,2011,4861,1312,Kolkata,6377632
+Kalyan Jewellers,24K Coins,24K,2023,4748,610,Bangalore,2896280
+Reliance Jewels,Gold Bars,18K,2014,4511,91,Bangalore,410501
+Kalyan Jewellers,22K Jewellery,22K,2018,7120,727,Pune,5176240
+Joyalukkas,Temple Jewellery,18K,2025,5282,643,Mumbai,3396326
+Joyalukkas,22K Jewellery,18K,2010,7171,1502,Pune,10770842
+Joyalukkas,Temple Jewellery,18K,2014,5937,1876,Mumbai,11137812
+Joyalukkas,18K Jewellery,18K,2023,4954,1231,Delhi,6098374
+Reliance Jewels,Temple Jewellery,24K,2024,4234,1289,Kolkata,5457626
+Malabar Gold,Gold Bars,24K,2018,4644,1743,Bangalore,8094492
+PC Jeweller,24K Coins,18K,2024,6340,1535,Bangalore,9731900
+Tanishq,Temple Jewellery,22K,2010,6182,183,Delhi,1131306
+Joyalukkas,Temple Jewellery,22K,2018,5430,1140,Chennai,6190200
+Kalyan Jewellers,24K Coins,22K,2017,4552,1921,Kolkata,8744392
+Joyalukkas,Gold Bars,22K,2013,5102,1080,Pune,5510160
+Kalyan Jewellers,22K Jewellery,18K,2021,5555,997,Delhi,5538335
+PC Jeweller,Temple Jewellery,24K,2020,7109,1599,Pune,11367291
+PC Jeweller,24K Coins,22K,2019,5948,122,Hyderabad,725656
+PC Jeweller,18K Jewellery,18K,2014,4358,448,Bangalore,1952384
+Kalyan Jewellers,24K Coins,22K,2022,6177,1478,Pune,9129606
+Joyalukkas,18K Jewellery,22K,2014,5156,1748,Mumbai,9012688
+PC Jeweller,Gold Bars,18K,2020,6271,627,Pune,3931917
+Reliance Jewels,22K Jewellery,24K,2021,4603,908,Hyderabad,4179524
+Kalyan Jewellers,24K Coins,24K,2015,7052,179,Kolkata,1262308
+Kalyan Jewellers,Temple Jewellery,18K,2016,4715,980,Bangalore,4620700
+Joyalukkas,Gold Bars,24K,2017,6979,1539,Delhi,10740681
+Kalyan Jewellers,24K Coins,18K,2024,5587,1279,Hyderabad,7145773
+Kalyan Jewellers,Temple Jewellery,18K,2023,6779,1861,Bangalore,12615719
+PC Jeweller,24K Coins,18K,2017,5155,1841,Pune,9490355
+Joyalukkas,18K Jewellery,24K,2020,6399,315,Kolkata,2015685
+PC Jeweller,24K Coins,18K,2023,5912,1610,Chennai,9518320
+PC Jeweller,24K Coins,22K,2022,7194,842,Kolkata,6057348
+Joyalukkas,24K Coins,24K,2011,4807,302,Chennai,1451714
+Tanishq,Gold Bars,24K,2018,6667,871,Mumbai,5806957
+PC Jeweller,24K Coins,24K,2016,5473,1362,Kolkata,7454226
+Reliance Jewels,Temple Jewellery,24K,2013,7113,213,Bangalore,1515069
+Reliance Jewels,18K Jewellery,22K,2013,5735,144,Chennai,825840
+Kalyan Jewellers,18K Jewellery,24K,2020,6825,1855,Delhi,12660375
+Reliance Jewels,24K Coins,24K,2017,6582,882,Bangalore,5805324
+Kalyan Jewellers,Gold Bars,18K,2013,5641,1183,Delhi,6673303
+Tanishq,Gold Bars,24K,2022,7179,385,Kolkata,2763915
+Joyalukkas,Temple Jewellery,22K,2024,5997,871,Delhi,5223387
+Joyalukkas,24K Coins,22K,2015,4494,287,Chennai,1289778
+Joyalukkas,18K Jewellery,22K,2014,4954,430,Bangalore,2130220
+Reliance Jewels,Gold Bars,22K,2012,5594,1509,Pune,8441346
+Tanishq,24K Coins,24K,2022,4385,948,Hyderabad,4156980
+Reliance Jewels,Gold Bars,24K,2023,5469,532,Chennai,2909508
+Reliance Jewels,Gold Bars,22K,2019,4836,951,Chennai,4599036
+Tanishq,18K Jewellery,22K,2020,5491,1098,Pune,6029118
+Tanishq,22K Jewellery,24K,2011,4729,1726,Bangalore,8162254
+Tanishq,Temple Jewellery,22K,2018,6268,1190,Bangalore,7458920
+Tanishq,Temple Jewellery,18K,2019,7158,531,Kolkata,3800898
+Joyalukkas,18K Jewellery,22K,2018,7114,1465,Delhi,10422010
+Malabar Gold,Gold Bars,22K,2010,4993,966,Kolkata,4823238
+Malabar Gold,24K Coins,18K,2019,6347,1043,Pune,6619921
+Tanishq,Gold Bars,18K,2012,6999,1013,Kolkata,7089987
+Malabar Gold,18K Jewellery,24K,2017,4677,586,Pune,2740722
+Malabar Gold,Temple Jewellery,24K,2015,5822,1152,Bangalore,6706944
+Tanishq,Gold Bars,18K,2014,5139,1653,Delhi,8494767
+Malabar Gold,Temple Jewellery,18K,2014,4725,1246,Kolkata,5887350
+Reliance Jewels,24K Coins,24K,2015,6581,1085,Chennai,7140385
+Kalyan Jewellers,Temple Jewellery,22K,2024,4201,1873,Mumbai,7868473
+Kalyan Jewellers,Temple Jewellery,18K,2016,4574,177,Hyderabad,809598
+Tanishq,22K Jewellery,24K,2010,6540,1681,Chennai,10993740
+Joyalukkas,22K Jewellery,22K,2018,7084,141,Bangalore,998844
+Tanishq,22K Jewellery,18K,2012,4752,1726,Hyderabad,8201952
+Joyalukkas,Temple Jewellery,22K,2013,6565,592,Mumbai,3886480
+Kalyan Jewellers,18K Jewellery,24K,2019,5725,895,Mumbai,5123875
+Tanishq,Temple Jewellery,18K,2010,6051,1605,Delhi,9711855
+PC Jeweller,18K Jewellery,22K,2022,4580,1731,Hyderabad,7927980
+Reliance Jewels,18K Jewellery,18K,2020,5846,1038,Delhi,6068148
+Malabar Gold,22K Jewellery,22K,2019,4213,1901,Chennai,8008913
+Joyalukkas,Gold Bars,24K,2012,4703,496,Pune,2332688
+PC Jeweller,24K Coins,24K,2011,6478,439,Pune,2843842
+Malabar Gold,22K Jewellery,18K,2011,6208,721,Pune,4475968
+Malabar Gold,22K Jewellery,22K,2023,4329,1934,Hyderabad,8372286
+Tanishq,Gold Bars,18K,2010,5037,92,Pune,463404
+Malabar Gold,24K Coins,18K,2017,7138,303,Chennai,2162814
+Reliance Jewels,Temple Jewellery,22K,2012,6240,1203,Delhi,7506720
+PC Jeweller,Temple Jewellery,22K,2025,4227,1133,Hyderabad,4789191
+Malabar Gold,22K Jewellery,22K,2012,6313,712,Delhi,4494856
+Tanishq,24K Coins,24K,2015,5452,516,Hyderabad,2813232
+Reliance Jewels,22K Jewellery,18K,2022,4460,336,Delhi,1498560
+Kalyan Jewellers,18K Jewellery,18K,2017,6246,1060,Mumbai,6620760
+PC Jeweller,22K Jewellery,24K,2022,5672,1590,Delhi,9018480
+Malabar Gold,22K Jewellery,22K,2024,5647,1540,Pune,8696380
+Tanishq,Temple Jewellery,24K,2018,4659,827,Mumbai,3852993
+Kalyan Jewellers,Temple Jewellery,24K,2018,4500,394,Delhi,1773000
+Kalyan Jewellers,Temple Jewellery,24K,2013,7166,691,Hyderabad,4951706
+Joyalukkas,18K Jewellery,18K,2023,6534,431,Hyderabad,2816154
+Reliance Jewels,Temple Jewellery,24K,2014,4829,1852,Hyderabad,8943308
+Malabar Gold,24K Coins,18K,2011,4469,739,Bangalore,3302591
+Tanishq,Gold Bars,18K,2020,6839,1326,Chennai,9068514
+Joyalukkas,24K Coins,18K,2018,6193,1129,Hyderabad,6991897
+Reliance Jewels,24K Coins,22K,2017,5828,1536,Mumbai,8951808
+Joyalukkas,Temple Jewellery,18K,2012,6001,506,Hyderabad,3036506
+PC Jeweller,Gold Bars,18K,2020,7091,1032,Bangalore,7317912
+Reliance Jewels,Gold Bars,22K,2021,5061,132,Pune,668052
+Reliance Jewels,Gold Bars,18K,2022,5480,1978,Mumbai,10839440
+Malabar Gold,18K Jewellery,24K,2018,6380,1172,Bangalore,7477360
+Reliance Jewels,Temple Jewellery,24K,2012,5999,198,Pune,1187802
+Joyalukkas,Gold Bars,18K,2018,5906,1402,Kolkata,8280212
+Reliance Jewels,18K Jewellery,22K,2011,6760,1229,Kolkata,8308040
+Malabar Gold,22K Jewellery,24K,2021,6560,239,Mumbai,1567840
+Malabar Gold,22K Jewellery,22K,2019,4775,1567,Delhi,7482425
+PC Jeweller,18K Jewellery,22K,2018,7133,932,Chennai,6647956
+Joyalukkas,18K Jewellery,24K,2024,6203,312,Chennai,1935336
+Kalyan Jewellers,Temple Jewellery,22K,2017,5507,1153,Bangalore,6349571
+Kalyan Jewellers,Temple Jewellery,24K,2018,6156,449,Pune,2764044
+Reliance Jewels,22K Jewellery,22K,2014,6934,813,Chennai,5637342
+PC Jeweller,Gold Bars,24K,2020,6220,658,Pune,4092760
+Tanishq,22K Jewellery,18K,2020,6412,1333,Pune,8547196
+Reliance Jewels,Gold Bars,24K,2011,6552,1845,Bangalore,12088440
+PC Jeweller,Gold Bars,24K,2017,5855,1688,Bangalore,9883240
+Joyalukkas,Temple Jewellery,24K,2021,5779,1625,Bangalore,9390875
+Joyalukkas,24K Coins,24K,2024,6047,834,Chennai,5043198
+Joyalukkas,24K Coins,22K,2015,6403,150,Kolkata,960450
+Joyalukkas,18K Jewellery,18K,2017,5590,1432,Bangalore,8004880
+Joyalukkas,Temple Jewellery,24K,2020,5942,1453,Chennai,8633726
+PC Jeweller,Gold Bars,22K,2014,6125,869,Bangalore,5322625
+PC Jeweller,24K Coins,18K,2025,4819,1294,Hyderabad,6235786
+Malabar Gold,Gold Bars,18K,2019,5474,869,Pune,4756906
+Kalyan Jewellers,24K Coins,18K,2011,5156,469,Bangalore,2418164
+Joyalukkas,24K Coins,18K,2015,6139,173,Mumbai,1062047
+Tanishq,24K Coins,24K,2014,6581,471,Pune,3099651
+PC Jeweller,Temple Jewellery,24K,2021,5168,1304,Pune,6739072
+Tanishq,22K Jewellery,22K,2025,6758,1763,Bangalore,11914354
+Tanishq,Gold Bars,22K,2022,5516,1136,Kolkata,6266176
+Tanishq,Temple Jewellery,22K,2021,5243,1558,Delhi,8168594
+Malabar Gold,Temple Jewellery,18K,2014,4481,1701,Kolkata,7622181
+PC Jeweller,Temple Jewellery,18K,2022,7044,1776,Bangalore,12510144
+Tanishq,Temple Jewellery,24K,2010,6366,1647,Pune,10484802
+Joyalukkas,Temple Jewellery,18K,2011,5258,817,Mumbai,4295786
+Reliance Jewels,18K Jewellery,18K,2017,4397,532,Pune,2339204
+Tanishq,Gold Bars,18K,2022,6732,568,Kolkata,3823776
+Malabar Gold,Temple Jewellery,22K,2025,5282,204,Mumbai,1077528
+PC Jeweller,Gold Bars,22K,2023,7084,141,Chennai,998844
+Malabar Gold,18K Jewellery,24K,2022,5384,1031,Hyderabad,5550904
+Tanishq,18K Jewellery,18K,2012,5208,1599,Pune,8327592
+PC Jeweller,Gold Bars,18K,2019,6938,504,Bangalore,3496752
+Reliance Jewels,24K Coins,24K,2012,5429,1814,Chennai,9848206
+Tanishq,22K Jewellery,18K,2017,5235,647,Hyderabad,3387045
+Malabar Gold,24K Coins,18K,2017,4689,1718,Bangalore,8055702
+Kalyan Jewellers,24K Coins,22K,2011,4475,559,Delhi,2501525
+Joyalukkas,24K Coins,24K,2017,6940,1256,Bangalore,8716640
+Malabar Gold,Temple Jewellery,24K,2020,6489,435,Mumbai,2822715
+PC Jeweller,18K Jewellery,24K,2022,5439,1647,Mumbai,8958033
+Tanishq,24K Coins,24K,2022,5474,1804,Delhi,9875096
+Joyalukkas,18K Jewellery,22K,2010,4325,454,Chennai,1963550
+Tanishq,Gold Bars,22K,2015,4416,295,Hyderabad,1302720
+PC Jeweller,22K Jewellery,18K,2017,5408,791,Bangalore,4277728
+Tanishq,Gold Bars,18K,2012,5446,1664,Mumbai,9062144
+Kalyan Jewellers,Gold Bars,18K,2025,6742,710,Chennai,4786820
+Joyalukkas,Temple Jewellery,18K,2017,6674,699,Delhi,4665126
+Joyalukkas,22K Jewellery,22K,2021,5118,1544,Kolkata,7902192
+PC Jeweller,Gold Bars,24K,2010,5517,1899,Pune,10476783
+Kalyan Jewellers,Gold Bars,22K,2020,6398,1961,Kolkata,12546478
+Malabar Gold,22K Jewellery,18K,2020,6631,1496,Kolkata,9919976
+Tanishq,22K Jewellery,22K,2025,5861,950,Mumbai,5567950
+Reliance Jewels,Gold Bars,24K,2018,4507,114,Delhi,513798
+Tanishq,22K Jewellery,24K,2022,5559,1086,Bangalore,6037074
+Tanishq,Gold Bars,22K,2020,6169,262,Kolkata,1616278
+Malabar Gold,Gold Bars,22K,2022,6993,291,Kolkata,2034963
+Tanishq,Temple Jewellery,22K,2018,5091,542,Hyderabad,2759322
+Kalyan Jewellers,24K Coins,18K,2014,4574,1286,Mumbai,5882164
+Kalyan Jewellers,Gold Bars,22K,2019,6233,1766,Mumbai,11007478
+Joyalukkas,18K Jewellery,22K,2013,5564,387,Bangalore,2153268
+PC Jeweller,24K Coins,22K,2024,4328,222,Pune,960816
+Reliance Jewels,24K Coins,24K,2020,5214,721,Chennai,3759294
+Tanishq,24K Coins,24K,2015,5999,213,Hyderabad,1277787
+Tanishq,Temple Jewellery,18K,2021,6916,514,Mumbai,3554824
+Malabar Gold,Gold Bars,18K,2016,5581,1044,Hyderabad,5826564
+PC Jeweller,Temple Jewellery,24K,2014,4716,546,Mumbai,2574936
+Kalyan Jewellers,Gold Bars,24K,2020,5718,749,Hyderabad,4282782
+Reliance Jewels,Temple Jewellery,24K,2022,4285,444,Delhi,1902540
+Joyalukkas,Temple Jewellery,22K,2019,5398,752,Kolkata,4059296
+Kalyan Jewellers,18K Jewellery,22K,2018,6558,1990,Mumbai,13050420
+PC Jeweller,Temple Jewellery,24K,2012,5342,357,Hyderabad,1907094
+Joyalukkas,22K Jewellery,22K,2024,6674,1841,Chennai,12286834
+Malabar Gold,18K Jewellery,22K,2016,6193,232,Delhi,1436776
+Malabar Gold,Temple Jewellery,18K,2019,6361,678,Delhi,4312758
+Tanishq,24K Coins,24K,2019,4502,1867,Chennai,8405234
+PC Jeweller,22K Jewellery,24K,2025,6991,559,Hyderabad,3907969
+Reliance Jewels,22K Jewellery,22K,2020,4787,1781,Bangalore,8525647
+Joyalukkas,22K Jewellery,24K,2014,5186,595,Chennai,3085670
+Kalyan Jewellers,18K Jewellery,18K,2023,6063,1637,Hyderabad,9925131
+PC Jeweller,Temple Jewellery,18K,2016,4544,673,Chennai,3058112
+PC Jeweller,Temple Jewellery,18K,2024,5013,1837,Chennai,9208881
+Malabar Gold,24K Coins,24K,2011,6187,643,Mumbai,3978241
+Tanishq,24K Coins,24K,2013,7048,793,Hyderabad,5589064
+Tanishq,22K Jewellery,24K,2011,5510,1300,Bangalore,7163000
+Joyalukkas,24K Coins,24K,2023,6199,1818,Kolkata,11269782
+Malabar Gold,18K Jewellery,24K,2022,5877,1806,Mumbai,10613862
+PC Jeweller,Temple Jewellery,18K,2022,5527,1509,Chennai,8340243
+Reliance Jewels,22K Jewellery,22K,2021,5292,1998,Kolkata,10573416
+Malabar Gold,24K Coins,18K,2016,6608,1495,Pune,9878960
+Joyalukkas,18K Jewellery,24K,2011,5209,603,Kolkata,3141027
+Joyalukkas,18K Jewellery,18K,2025,4903,70,Chennai,343210
+Malabar Gold,24K Coins,24K,2022,4774,603,Chennai,2878722
+Joyalukkas,Temple Jewellery,24K,2023,5808,446,Hyderabad,2590368
+Malabar Gold,24K Coins,18K,2020,5312,674,Hyderabad,3580288
+Kalyan Jewellers,22K Jewellery,24K,2010,4887,154,Mumbai,752598
+Malabar Gold,24K Coins,22K,2018,7028,241,Bangalore,1693748
+Malabar Gold,18K Jewellery,24K,2010,6832,66,Mumbai,450912
+Joyalukkas,24K Coins,22K,2017,6836,1193,Delhi,8155348
+Joyalukkas,Temple Jewellery,22K,2024,4688,442,Chennai,2072096
+Tanishq,Gold Bars,24K,2011,5547,474,Kolkata,2629278
+Tanishq,24K Coins,18K,2021,4693,178,Pune,835354
+Kalyan Jewellers,Temple Jewellery,22K,2025,5867,1203,Chennai,7058001
+Tanishq,Temple Jewellery,18K,2017,5837,621,Chennai,3624777
+Malabar Gold,18K Jewellery,22K,2022,4218,1633,Mumbai,6887994
+Joyalukkas,Temple Jewellery,24K,2012,6644,78,Pune,518232
+Tanishq,Temple Jewellery,24K,2025,5200,1170,Pune,6084000
+Tanishq,Temple Jewellery,22K,2015,5050,1083,Pune,5469150
+Kalyan Jewellers,Temple Jewellery,24K,2012,5588,291,Mumbai,1626108
+PC Jeweller,22K Jewellery,22K,2023,5554,1899,Chennai,10547046
+Kalyan Jewellers,22K Jewellery,24K,2016,5567,281,Mumbai,1564327
+Malabar Gold,18K Jewellery,18K,2019,5021,838,Hyderabad,4207598
+Joyalukkas,24K Coins,24K,2018,4654,1357,Hyderabad,6315478
+Kalyan Jewellers,Temple Jewellery,18K,2025,5824,764,Mumbai,4449536
+Tanishq,24K Coins,24K,2011,6972,808,Pune,5633376
+Joyalukkas,24K Coins,18K,2024,4910,851,Chennai,4178410
+Joyalukkas,18K Jewellery,24K,2021,6390,825,Mumbai,5271750
+Tanishq,Temple Jewellery,18K,2021,5116,775,Mumbai,3964900
+Kalyan Jewellers,Temple Jewellery,22K,2024,7075,249,Mumbai,1761675
+Tanishq,Gold Bars,22K,2023,6852,994,Delhi,6810888
+PC Jeweller,24K Coins,18K,2014,5696,128,Hyderabad,729088
+Joyalukkas,24K Coins,24K,2022,5640,1986,Kolkata,11201040
+Reliance Jewels,22K Jewellery,18K,2015,4504,1005,Pune,4526520
+Reliance Jewels,Gold Bars,24K,2013,4935,1928,Bangalore,9514680
+Malabar Gold,22K Jewellery,22K,2013,6538,905,Kolkata,5916890
+Tanishq,22K Jewellery,24K,2025,6163,1246,Pune,7679098
+Tanishq,22K Jewellery,22K,2013,6349,516,Bangalore,3276084
+Malabar Gold,18K Jewellery,24K,2011,6209,630,Delhi,3911670
+Malabar Gold,18K Jewellery,24K,2013,7114,1489,Mumbai,10592746
+Malabar Gold,22K Jewellery,24K,2020,7089,989,Delhi,7011021
+Joyalukkas,Gold Bars,18K,2025,5161,498,Delhi,2570178
+PC Jeweller,24K Coins,18K,2010,7189,136,Kolkata,977704
+Tanishq,Gold Bars,22K,2021,5226,150,Chennai,783900
+Joyalukkas,Temple Jewellery,22K,2015,6332,1081,Kolkata,6844892
+Malabar Gold,18K Jewellery,18K,2010,6575,894,Hyderabad,5878050
+Tanishq,24K Coins,22K,2019,7063,1273,Bangalore,8991199
+Joyalukkas,24K Coins,18K,2015,5673,1578,Mumbai,8951994
+PC Jeweller,Temple Jewellery,24K,2010,6701,136,Kolkata,911336
+Joyalukkas,Temple Jewellery,22K,2015,6147,92,Bangalore,565524
+PC Jeweller,22K Jewellery,22K,2019,6876,1458,Pune,10025208
+Malabar Gold,18K Jewellery,18K,2017,5377,1694,Bangalore,9108638
+PC Jeweller,18K Jewellery,22K,2020,4864,1508,Pune,7334912
+Tanishq,Gold Bars,22K,2011,4211,457,Kolkata,1924427
+Malabar Gold,22K Jewellery,24K,2011,5356,1556,Hyderabad,8333936
+Tanishq,22K Jewellery,22K,2023,4503,713,Kolkata,3210639
+Reliance Jewels,22K Jewellery,24K,2025,5963,1090,Pune,6499670
+Kalyan Jewellers,22K Jewellery,18K,2024,7030,1718,Bangalore,12077540
+PC Jeweller,18K Jewellery,22K,2022,4242,197,Bangalore,835674
+Kalyan Jewellers,18K Jewellery,24K,2021,5143,326,Pune,1676618
+Kalyan Jewellers,22K Jewellery,18K,2013,6590,281,Delhi,1851790
+PC Jeweller,Gold Bars,22K,2020,5549,1899,Hyderabad,10537551
+Malabar Gold,24K Coins,18K,2012,6745,415,Chennai,2799175
+Reliance Jewels,24K Coins,22K,2013,6611,1301,Mumbai,8600911
+Tanishq,Gold Bars,18K,2022,5090,1724,Bangalore,8775160
+Joyalukkas,22K Jewellery,18K,2021,6674,485,Mumbai,3236890
+Tanishq,18K Jewellery,24K,2016,5204,448,Chennai,2331392
+Joyalukkas,24K Coins,18K,2022,4220,1284,Kolkata,5418480
+Tanishq,Temple Jewellery,22K,2020,4606,1464,Mumbai,6743184
+PC Jeweller,Temple Jewellery,22K,2010,6866,548,Chennai,3762568
+Reliance Jewels,Gold Bars,24K,2015,5214,589,Pune,3071046
+Joyalukkas,22K Jewellery,22K,2024,4535,612,Delhi,2775420
+Malabar Gold,24K Coins,22K,2024,6038,1564,Bangalore,9443432
+Tanishq,22K Jewellery,22K,2025,5347,491,Chennai,2625377
+Tanishq,24K Coins,18K,2012,6646,1334,Mumbai,8865764
+Joyalukkas,Gold Bars,18K,2020,7040,822,Bangalore,5786880
+Malabar Gold,Gold Bars,22K,2019,6027,399,Delhi,2404773
+Malabar Gold,Temple Jewellery,24K,2016,4914,1425,Pune,7002450
+PC Jeweller,22K Jewellery,18K,2019,4250,569,Kolkata,2418250
+PC Jeweller,Temple Jewellery,24K,2011,4523,1393,Bangalore,6300539
+PC Jeweller,22K Jewellery,22K,2023,4988,187,Kolkata,932756
+PC Jeweller,Temple Jewellery,22K,2011,4340,1623,Chennai,7043820
+PC Jeweller,18K Jewellery,18K,2022,4669,1696,Delhi,7918624
+PC Jeweller,18K Jewellery,22K,2013,4986,1041,Mumbai,5190426
+Reliance Jewels,18K Jewellery,18K,2010,6025,417,Delhi,2512425
+Malabar Gold,18K Jewellery,22K,2012,5557,1293,Delhi,7185201
+PC Jeweller,24K Coins,22K,2022,6116,1410,Hyderabad,8623560
+Malabar Gold,18K Jewellery,18K,2018,5163,1296,Delhi,6691248
+Malabar Gold,Gold Bars,18K,2016,4572,1721,Delhi,7868412
+Kalyan Jewellers,Gold Bars,18K,2024,6741,1841,Bangalore,12410181
+Reliance Jewels,24K Coins,22K,2016,5892,409,Mumbai,2409828
+PC Jeweller,18K Jewellery,22K,2022,6998,970,Bangalore,6788060
+Tanishq,18K Jewellery,24K,2022,5379,378,Bangalore,2033262
+Joyalukkas,18K Jewellery,18K,2020,6538,1011,Chennai,6609918
+Tanishq,Temple Jewellery,22K,2013,5871,512,Bangalore,3005952
+Reliance Jewels,22K Jewellery,22K,2025,4305,995,Hyderabad,4283475
+Joyalukkas,Temple Jewellery,18K,2011,5643,1012,Hyderabad,5710716
+Reliance Jewels,22K Jewellery,24K,2024,6917,1634,Kolkata,11302378
+Malabar Gold,18K Jewellery,18K,2023,5881,1877,Chennai,11038637
+Joyalukkas,18K Jewellery,24K,2013,4201,1455,Kolkata,6112455
+Malabar Gold,Temple Jewellery,22K,2015,6836,885,Kolkata,6049860
+Tanishq,Temple Jewellery,24K,2020,6891,1663,Pune,11459733
+Tanishq,22K Jewellery,22K,2020,6337,1690,Mumbai,10709530
+Joyalukkas,Gold Bars,18K,2012,4549,218,Mumbai,991682
+Joyalukkas,22K Jewellery,18K,2010,5486,266,Bangalore,1459276
+PC Jeweller,Temple Jewellery,18K,2023,5262,427,Bangalore,2246874
+Reliance Jewels,Temple Jewellery,24K,2021,7156,168,Pune,1202208
+PC Jeweller,24K Coins,22K,2017,6406,239,Bangalore,1531034
+Reliance Jewels,Temple Jewellery,18K,2021,6559,816,Mumbai,5352144
+PC Jeweller,24K Coins,18K,2022,4644,419,Kolkata,1945836
+Malabar Gold,Gold Bars,22K,2014,6545,1851,Delhi,12114795
+Joyalukkas,22K Jewellery,18K,2024,5151,198,Hyderabad,1019898
+Tanishq,22K Jewellery,22K,2025,4235,1749,Delhi,7407015
+Reliance Jewels,24K Coins,22K,2014,5307,701,Delhi,3720207
+Reliance Jewels,22K Jewellery,22K,2020,5675,1932,Mumbai,10964100
+Tanishq,Temple Jewellery,22K,2013,5998,1561,Delhi,9362878
+PC Jeweller,18K Jewellery,22K,2015,6045,819,Pune,4950855
+Reliance Jewels,24K Coins,24K,2012,5608,423,Chennai,2372184
+Malabar Gold,22K Jewellery,18K,2018,5395,830,Bangalore,4477850
+Joyalukkas,24K Coins,24K,2014,5599,1766,Chennai,9887834
+Tanishq,24K Coins,18K,2012,5908,209,Kolkata,1234772
+Joyalukkas,18K Jewellery,24K,2020,5585,400,Hyderabad,2234000
+Reliance Jewels,Temple Jewellery,22K,2010,6806,1985,Bangalore,13509910
+Reliance Jewels,24K Coins,18K,2019,7138,1361,Delhi,9714818
+Tanishq,22K Jewellery,18K,2021,6388,1361,Hyderabad,8694068
+Malabar Gold,Gold Bars,24K,2015,7134,941,Bangalore,6713094
+Kalyan Jewellers,24K Coins,24K,2024,5500,1299,Pune,7144500
+Tanishq,24K Coins,18K,2011,6973,572,Pune,3988556
+Kalyan Jewellers,18K Jewellery,24K,2022,5443,571,Pune,3107953
+PC Jeweller,Temple Jewellery,24K,2012,4720,832,Pune,3927040
+Kalyan Jewellers,Gold Bars,24K,2025,6006,322,Delhi,1933932
+Malabar Gold,22K Jewellery,22K,2010,4209,985,Chennai,4145865
+PC Jeweller,Gold Bars,22K,2018,5183,1475,Bangalore,7644925
+Kalyan Jewellers,22K Jewellery,24K,2017,6625,232,Delhi,1537000
+PC Jeweller,Temple Jewellery,24K,2021,5856,1738,Pune,10177728
+Kalyan Jewellers,22K Jewellery,22K,2011,5860,537,Kolkata,3146820
+Malabar Gold,18K Jewellery,22K,2024,6929,1900,Chennai,13165100
+Kalyan Jewellers,18K Jewellery,18K,2021,6831,895,Kolkata,6113745
+Kalyan Jewellers,18K Jewellery,18K,2025,6399,173,Hyderabad,1107027
+Kalyan Jewellers,18K Jewellery,22K,2020,4919,1034,Kolkata,5086246
+Tanishq,Gold Bars,24K,2017,5272,1699,Hyderabad,8957128
+Tanishq,Temple Jewellery,24K,2021,5058,839,Hyderabad,4243662
+Tanishq,22K Jewellery,24K,2023,5516,463,Pune,2553908
+Malabar Gold,22K Jewellery,24K,2018,5803,1798,Hyderabad,10433794
+PC Jeweller,18K Jewellery,18K,2010,4249,1245,Mumbai,5290005
+Reliance Jewels,18K Jewellery,22K,2022,6911,1361,Bangalore,9405871
+Kalyan Jewellers,24K Coins,24K,2014,6778,1508,Bangalore,10221224
+Kalyan Jewellers,Temple Jewellery,18K,2017,7104,735,Pune,5221440
+Malabar Gold,Gold Bars,24K,2024,4345,162,Mumbai,703890
+Kalyan Jewellers,22K Jewellery,22K,2020,5114,937,Kolkata,4791818
+Tanishq,24K Coins,18K,2023,5662,1990,Delhi,11267380
+Reliance Jewels,24K Coins,22K,2011,6489,171,Kolkata,1109619
+Joyalukkas,22K Jewellery,22K,2013,4780,1617,Delhi,7729260
+Kalyan Jewellers,Gold Bars,18K,2016,6934,1295,Hyderabad,8979530
+Tanishq,24K Coins,18K,2012,5784,1704,Chennai,9855936
+Joyalukkas,24K Coins,18K,2022,4682,88,Delhi,412016
+Reliance Jewels,Temple Jewellery,18K,2025,5449,546,Chennai,2975154
+Joyalukkas,Gold Bars,18K,2021,4872,829,Bangalore,4038888
+Tanishq,24K Coins,18K,2014,4830,1306,Chennai,6307980
+PC Jeweller,Gold Bars,18K,2017,6908,992,Bangalore,6852736
+PC Jeweller,22K Jewellery,24K,2021,4861,1603,Mumbai,7792183
+Joyalukkas,18K Jewellery,22K,2019,7052,198,Mumbai,1396296
+Malabar Gold,24K Coins,18K,2012,6666,1470,Pune,9799020
+Joyalukkas,Temple Jewellery,24K,2013,5187,1071,Pune,5555277
+Kalyan Jewellers,22K Jewellery,24K,2023,5746,710,Hyderabad,4079660
+Kalyan Jewellers,Gold Bars,24K,2024,4849,1711,Delhi,8296639
+PC Jeweller,22K Jewellery,22K,2018,5168,1977,Hyderabad,10217136
+Malabar Gold,24K Coins,18K,2023,6837,351,Bangalore,2399787
+Tanishq,Gold Bars,24K,2023,5300,1433,Hyderabad,7594900
+Kalyan Jewellers,18K Jewellery,22K,2016,6756,287,Chennai,1938972
+PC Jeweller,22K Jewellery,22K,2010,4640,696,Bangalore,3229440
+Reliance Jewels,24K Coins,22K,2023,5120,712,Pune,3645440
+PC Jeweller,Temple Jewellery,24K,2021,4969,285,Mumbai,1416165
+Kalyan Jewellers,Gold Bars,18K,2013,5543,1809,Pune,10027287
+Kalyan Jewellers,22K Jewellery,24K,2013,6026,252,Delhi,1518552
+PC Jeweller,22K Jewellery,24K,2018,4462,305,Bangalore,1360910
+Tanishq,18K Jewellery,18K,2015,5777,647,Bangalore,3737719
+Joyalukkas,18K Jewellery,18K,2025,6884,711,Chennai,4894524
+Kalyan Jewellers,Temple Jewellery,18K,2018,6706,284,Delhi,1904504
+PC Jeweller,Temple Jewellery,22K,2021,5198,1418,Mumbai,7370764
+PC Jeweller,24K Coins,18K,2024,4899,583,Kolkata,2856117
+Malabar Gold,24K Coins,24K,2015,6549,909,Bangalore,5953041
+Joyalukkas,Temple Jewellery,18K,2015,5803,1870,Bangalore,10851610
+Reliance Jewels,Temple Jewellery,24K,2014,5441,1854,Chennai,10087614
+Tanishq,Gold Bars,22K,2014,5325,1539,Hyderabad,8195175
+Reliance Jewels,18K Jewellery,24K,2011,6801,819,Mumbai,5570019
+Joyalukkas,24K Coins,24K,2017,6535,590,Pune,3855650
+Joyalukkas,18K Jewellery,18K,2017,5390,262,Delhi,1412180
+Joyalukkas,18K Jewellery,18K,2020,6868,512,Bangalore,3516416
+Reliance Jewels,Temple Jewellery,24K,2025,5205,485,Bangalore,2524425
+Joyalukkas,Gold Bars,18K,2022,4235,332,Pune,1406020
+PC Jeweller,22K Jewellery,22K,2010,4943,1635,Mumbai,8081805
+Reliance Jewels,Gold Bars,22K,2017,5964,1680,Hyderabad,10019520
+Joyalukkas,Gold Bars,18K,2014,4552,1536,Bangalore,6991872
+PC Jeweller,18K Jewellery,22K,2011,6122,1480,Mumbai,9060560
+Malabar Gold,Gold Bars,18K,2023,4272,137,Pune,585264
+Joyalukkas,24K Coins,24K,2025,6895,1117,Chennai,7701715
+Reliance Jewels,18K Jewellery,24K,2011,5576,510,Hyderabad,2843760
+Kalyan Jewellers,24K Coins,22K,2023,6114,327,Delhi,1999278
+Joyalukkas,22K Jewellery,18K,2024,5293,1756,Bangalore,9294508
+Kalyan Jewellers,18K Jewellery,18K,2024,6672,470,Mumbai,3135840
+PC Jeweller,22K Jewellery,22K,2015,4907,1774,Chennai,8705018
+Malabar Gold,18K Jewellery,24K,2025,6004,1426,Delhi,8561704
+Tanishq,Temple Jewellery,22K,2020,6808,745,Kolkata,5071960
+Malabar Gold,Gold Bars,24K,2022,7075,564,Mumbai,3990300
+Joyalukkas,Temple Jewellery,18K,2018,5155,752,Mumbai,3876560
+Kalyan Jewellers,22K Jewellery,24K,2010,6764,1703,Delhi,11519092
+Kalyan Jewellers,Gold Bars,22K,2021,6675,68,Chennai,453900
+Reliance Jewels,18K Jewellery,18K,2015,4359,72,Kolkata,313848
+Kalyan Jewellers,Gold Bars,22K,2018,6396,462,Pune,2954952
+Reliance Jewels,24K Coins,22K,2017,7023,1103,Chennai,7746369
+PC Jeweller,Gold Bars,24K,2020,5935,1880,Hyderabad,11157800
+Tanishq,24K Coins,22K,2015,5785,157,Bangalore,908245
+Joyalukkas,Gold Bars,24K,2012,4266,1440,Delhi,6143040
+Reliance Jewels,24K Coins,18K,2017,6628,1354,Pune,8974312
+Tanishq,22K Jewellery,24K,2018,4257,1201,Kolkata,5112657
+Kalyan Jewellers,Temple Jewellery,18K,2010,4541,1302,Delhi,5912382
+Kalyan Jewellers,18K Jewellery,24K,2021,5353,1184,Delhi,6337952
+Tanishq,Gold Bars,22K,2018,6974,185,Chennai,1290190
+Kalyan Jewellers,Temple Jewellery,24K,2023,5395,411,Bangalore,2217345
+PC Jeweller,18K Jewellery,24K,2025,7017,1259,Hyderabad,8834403
+PC Jeweller,18K Jewellery,18K,2024,6861,1729,Mumbai,11862669
+Tanishq,24K Coins,22K,2025,5432,1657,Mumbai,9000824
+Reliance Jewels,22K Jewellery,24K,2015,6601,178,Delhi,1174978
+Reliance Jewels,22K Jewellery,22K,2015,5694,1949,Bangalore,11097606
+Tanishq,Temple Jewellery,24K,2021,6021,1334,Kolkata,8032014
+Reliance Jewels,22K Jewellery,24K,2013,4315,564,Kolkata,2433660
+Reliance Jewels,Gold Bars,22K,2010,4861,498,Pune,2420778
+PC Jeweller,22K Jewellery,24K,2019,5665,1973,Chennai,11177045
+Reliance Jewels,Temple Jewellery,22K,2017,6700,1177,Bangalore,7885900
+Malabar Gold,22K Jewellery,24K,2025,6068,1556,Bangalore,9441808
+Joyalukkas,Gold Bars,18K,2011,6534,1297,Chennai,8474598
+Kalyan Jewellers,24K Coins,22K,2021,5216,1905,Kolkata,9936480
+Malabar Gold,Temple Jewellery,24K,2010,4510,923,Kolkata,4162730
+Reliance Jewels,24K Coins,24K,2011,4407,1939,Kolkata,8545173
+PC Jeweller,24K Coins,18K,2010,6865,1564,Delhi,10736860
+Tanishq,24K Coins,22K,2010,6693,522,Bangalore,3493746
+Reliance Jewels,18K Jewellery,24K,2018,6917,1083,Mumbai,7491111
+PC Jeweller,18K Jewellery,18K,2022,4832,1478,Chennai,7141696
+Joyalukkas,24K Coins,24K,2023,6302,1969,Kolkata,12408638
+Reliance Jewels,Temple Jewellery,22K,2010,7159,351,Pune,2512809
+Tanishq,Gold Bars,24K,2022,4856,280,Kolkata,1359680
+PC Jeweller,Gold Bars,24K,2013,5623,1804,Kolkata,10143892
+PC Jeweller,22K Jewellery,24K,2019,6131,972,Hyderabad,5959332
+PC Jeweller,Temple Jewellery,24K,2015,6762,1139,Delhi,7701918
+Joyalukkas,18K Jewellery,18K,2016,5879,986,Chennai,5796694
+Reliance Jewels,24K Coins,18K,2011,4436,161,Hyderabad,714196
+Joyalukkas,22K Jewellery,22K,2015,4547,1086,Hyderabad,4938042
+Kalyan Jewellers,Gold Bars,18K,2016,6874,1466,Pune,10077284
+Kalyan Jewellers,18K Jewellery,18K,2019,4829,549,Bangalore,2651121
+Reliance Jewels,18K Jewellery,22K,2023,5740,981,Pune,5630940
+Joyalukkas,24K Coins,18K,2019,6203,647,Bangalore,4013341
